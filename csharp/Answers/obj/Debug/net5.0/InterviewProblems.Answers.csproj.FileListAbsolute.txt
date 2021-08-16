@@ -1,0 +1,12 @@
+C:\Users\shiva\source\repos\rblackman\ShivaPrasadInterview\csharp\Answers\bin\Debug\net5.0\InterviewProblems.Answers.deps.json
+C:\Users\shiva\source\repos\rblackman\ShivaPrasadInterview\csharp\Answers\bin\Debug\net5.0\InterviewProblems.Answers.dll
+C:\Users\shiva\source\repos\rblackman\ShivaPrasadInterview\csharp\Answers\bin\Debug\net5.0\ref\InterviewProblems.Answers.dll
+C:\Users\shiva\source\repos\rblackman\ShivaPrasadInterview\csharp\Answers\bin\Debug\net5.0\InterviewProblems.Answers.pdb
+C:\Users\shiva\source\repos\rblackman\ShivaPrasadInterview\csharp\Answers\obj\Debug\net5.0\InterviewProblems.Answers.csproj.AssemblyReference.cache
+C:\Users\shiva\source\repos\rblackman\ShivaPrasadInterview\csharp\Answers\obj\Debug\net5.0\InterviewProblems.Answers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\source\repos\rblackman\ShivaPrasadInterview\csharp\Answers\obj\Debug\net5.0\InterviewProblems.Answers.AssemblyInfoInputs.cache
+C:\Users\shiva\source\repos\rblackman\ShivaPrasadInterview\csharp\Answers\obj\Debug\net5.0\InterviewProblems.Answers.AssemblyInfo.cs
+C:\Users\shiva\source\repos\rblackman\ShivaPrasadInterview\csharp\Answers\obj\Debug\net5.0\InterviewProblems.Answers.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\rblackman\ShivaPrasadInterview\csharp\Answers\obj\Debug\net5.0\InterviewProblems.Answers.dll
+C:\Users\shiva\source\repos\rblackman\ShivaPrasadInterview\csharp\Answers\obj\Debug\net5.0\ref\InterviewProblems.Answers.dll
+C:\Users\shiva\source\repos\rblackman\ShivaPrasadInterview\csharp\Answers\obj\Debug\net5.0\InterviewProblems.Answers.pdb

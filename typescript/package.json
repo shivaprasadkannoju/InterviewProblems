@@ -1,0 +1,26 @@
+{
+	"author": {
+		"name": "Ryan Blackman",
+		"url": "https://github.com/rblackman"
+	},
+	"dependencies": {
+		"jest": "^27.0.6",
+		"jest-runner-groups": "^2.1.0",
+		"ts-jest": "^27.0.3",
+		"typescript": "^4.3.5"
+	},
+	"description": "Coding problems for MTD Software Developer Position - TypeScript",
+	"license": "Apache 2.0",
+	"name": "mtd-interview-problems-typescript",
+	"private": true,
+	"scripts": {
+		"test-all": "jest --color --cache --noStackTrace",
+		"test1": "jest --color --cache --noStackTrace --group=maxLenStr",
+		"test2": "jest --color --cache --noStackTrace --group=factorial",
+		"test3": "jest --color --cache --noStackTrace --group=passengerLoad",
+		"test4": "jest --color --cache --noStackTrace --group=consecutiveDistance",
+		"test5": "jest --color --cache --noStackTrace --group=palindrome",
+		"test6": "jest --color --cache --noStackTrace --group=equilibrium"
+	},
+	"version": "1.0.0"
+}
